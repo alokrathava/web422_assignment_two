@@ -5,7 +5,7 @@
  *  (including web sites) or distributed to other students.
  *
  *  Name: Alokkumar Rathava Student ID: 145877205 Date: Jun 1. 2023
- *
+ *  https://alokrathava.github.io/web422_assignment_two/
  ********************************************************************************/
 
 let page = 1;
